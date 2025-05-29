@@ -12,3 +12,17 @@
 ## ``` https://github.com/tubatr/kodluyoruzilkrepo.git ```
 
 
+# Usage
+
+
+## Projeyi cloneledikten sonra Visual Studio Code programında açınız.
+
+
+## Linux için
+
+
+## ```cd kodluyoruzilkrepo ```
+## ```code . ```
+  
+
+
