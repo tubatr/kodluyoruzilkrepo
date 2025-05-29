@@ -21,7 +21,10 @@
 ## Linux için
 
 
-## ```cd kodluyoruzilkrepo code .```
+## ```bash
+ cd kodluyoruzilkrepo 
+code .
+```
  
   
 
