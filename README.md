@@ -9,6 +9,6 @@
 
 ## Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-## ''' https://github.com/tubatr/kodluyoruzilkrepo.git '''
+## ``` https://github.com/tubatr/kodluyoruzilkrepo.git ```
 
 
