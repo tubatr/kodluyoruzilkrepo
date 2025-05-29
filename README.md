@@ -9,8 +9,10 @@
 
 ## Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
- ```bash 
+ ```bash
+
  git clone https://github.com/tubatr/kodluyoruzilkrepo.git 
+
  ```
 
 
@@ -24,8 +26,10 @@
 
 
  ```bash
+
  cd kodluyoruzilkrepo 
 code .
+
 ```
 
 
